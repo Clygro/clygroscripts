@@ -10,6 +10,6 @@ Simple bash scripts I guess, they are only a few lines worth of content. <br>
 2. See if you can run the file by double clicking it, if not, open up a terminal, go to the directory where the file was downloaded by typing `cd ~/Downloads` which is usually where the file will end up being. 
 3. Type the command `chmod u+x filename.sh` (replace `filename.sh` in the command with the name of the file you want to run.)
 4. To run, you can just open it in a file manager, or just do `./filename.sh` in the terminal
-# Tips & Tricks
+# Tips & tricks
 The guide above can apply to pretty much all .sh file scripts, which you may encounter quite often.
 You can set the scripts to start at start up, which can be incredibly useful (especially `depaste.sh`)
