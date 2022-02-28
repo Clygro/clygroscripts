@@ -11,5 +11,7 @@ Simple bash scripts I guess, they are only a few lines worth of content. <br>
 3. Type the command `chmod u+x filename.sh` (replace `filename.sh` in the command with the name of the file you want to run.)
 4. To run, you can just open it in a file manager, or just do `./filename.sh` in the terminal
 # Tips & tricks
-The guide above can apply to pretty much all .sh file scripts, which you may encounter quite often.
-You can set the scripts to start at start up, which can be incredibly useful (especially `depaste.sh`)
+The guide above can apply to pretty much all .sh file scripts, which you may encounter quite often. <br>
+You can set the scripts to start at start up, which can be incredibly useful (especially `depaste.sh`) <br>
+IF you want to launch them without having to type `cd ~/Downloads`, you can type `cp ~/Downloads/filename.sh ~/`. <br>
+`~/` Represents the users home directory, which is where the user's main files are generally stored, and that's where most terminals default to. <br>
